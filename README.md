@@ -1,1 +1,1 @@
-# furniture-website
+# furniture-starter
